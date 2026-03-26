@@ -7,3 +7,5 @@ while n != 0:
     n = n // 10
 
 print("Sum of digits =", sum)
+
+#End
